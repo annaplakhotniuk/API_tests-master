@@ -1,0 +1,11 @@
+.idea
+.pytest_cache
+__pycache__/
+logs/*
+allure-report/*
+allure-results/*
+Test/pytest_cache
+venv/*
+Test/__pycache__/*
+lib/__pycache__/*
+*.pyc
